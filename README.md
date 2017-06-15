@@ -14,6 +14,7 @@ In addition, you will find in this repository an R code showing some examples of
 # Requirements
 
 R 3.3.2
+
 Ubuntu bash shell
 
 # Usage
